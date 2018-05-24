@@ -713,25 +713,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "СЕМЕЙНЫЙ ОТДЫХ",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "В гостевом доме «Агроусадьба Несвижская»!",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"zabronirovat.html\" data-toolbar=\"-mbrBtnMove\">ЗАБРОНИРОВАТЬ</a> "
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/architecture-3111232-2000x1338.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -745,6 +728,23 @@
                 "contentAlign": "right",
                 "text": "Несвиж по праву носит такое название, так как имеет славную историю и бережно хранит традиции предков.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://vk.com/homestead.nesvizhskaya\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "СЕМЕЙНЫЙ ОТДЫХ",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "В гостевом доме «Агроусадьба Несвижская»!",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"zabronirovat.html\" data-toolbar=\"-mbrBtnMove\">ЗАБРОНИРОВАТЬ</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
