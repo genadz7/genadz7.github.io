@@ -744,7 +744,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Несвиж по праву носит такое название, так как имеет славную историю и бережно хранит традиции предков.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://vk.com/homestead.nesvizhskaya\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
