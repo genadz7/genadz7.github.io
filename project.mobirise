@@ -37,7 +37,10 @@
     "uniqCompNum": 34,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<script type=\"text/javascript\">!function(){var t=document.createElement(\"script\");t.type=\"text/javascript\",t.async=!0,t.src=\"https://vk.com/js/api/openapi.js?154\",t.onload=function(){VK.Retargeting.Init(\"VK-RTRG-247740-tTmO\"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src=\"https://vk.com/rtrg?p=VK-RTRG-247740-tTmO\" style=\"position:fixed; left:-999px;\" alt=\"\"/></noscript>\r\n\r\n<!-- Yandex.Metrika counter -->\r\n<script type=\"text/javascript\" >\r\n    (function (d, w, c) {\r\n        (w[c] = w[c] || []).push(function() {\r\n            try {\r\n                w.yaCounter35834445 = new Ya.Metrika({\r\n                    id:35834445,\r\n                    clickmap:true,\r\n                    trackLinks:true,\r\n                    accurateTrackBounce:true,\r\n                    webvisor:true\r\n                });\r\n            } catch(e) { }\r\n        });\r\n\r\n        var n = d.getElementsByTagName(\"script\")[0],\r\n            s = d.createElement(\"script\"),\r\n            f = function () { n.parentNode.insertBefore(s, n); };\r\n        s.type = \"text/javascript\";\r\n        s.async = true;\r\n        s.src = \"https://mc.yandex.ru/metrika/watch.js\";\r\n\r\n        if (w.opera == \"[object Opera]\") {\r\n            d.addEventListener(\"DOMContentLoaded\", f, false);\r\n        } else { f(); }\r\n    })(document, window, \"yandex_metrika_callbacks\");\r\n</script>\r\n<noscript><div><img src=\"https://mc.yandex.ru/watch/35834445\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\r\n<!-- /Yandex.Metrika counter -->"
   },
   "pages": {
     "index.html": {
